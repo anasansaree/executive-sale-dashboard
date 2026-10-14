@@ -16,7 +16,7 @@ data visualization in a practical setting.
 Add your dashboard screenshot to this repository and update the image
 path below if your filename is different.
 
-![Executive Sales Dashboard](dashboard-screenshot.png)
+![Executive Sales Dashboard](https://github.com/anasansaree/executive-sale-dashboard/blob/main/Screenshot/Screenshot%202026-10-14%20203910.png)
 
 ## Dashboard Highlights
 
